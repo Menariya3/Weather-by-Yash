@@ -7,6 +7,14 @@
 body{
     background-color: #222;
 }
+.author{
+    color:rgb(232, 238, 50);
+    text-align: center;
+
+}
+.author:hover{
+    color: lightgoldenrodyellow;
+}
 .card{
     width: 90%;
     max-width: 470px;
